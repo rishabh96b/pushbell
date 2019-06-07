@@ -1,0 +1,19 @@
+{
+  "name": "firebasepoc",
+  "version": "1.0.0",
+  "description": "An application to send web push notification using FCM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fcm",
+    "nodejs"
+  ],
+  "author": "Rishabh Bohra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.0.0"
+  }
+}
