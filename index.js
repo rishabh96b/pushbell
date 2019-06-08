@@ -1,6 +1,7 @@
 var express = require("express");
 var admin = require("firebase-admin");
 
+//This file is generated from the firebase console.
 var serviceAccount = "tester-xxxxx-firebase-adminsdk-xxxx-xxxxxxxx.json";
 //initializing the firebase admin instance with provided credentials.
 admin.initializeApp({
